@@ -1,0 +1,11 @@
+.venv-linux/
+.venv/
+__pycache__/
+*.pyc
+data/
+data_quick/
+tmp/
+*.log
+
+# Keep the trained checkpoint for the demo unless GitHub's file policy rejects it.
+# The downloaded datasets and environments are intentionally excluded.
